@@ -82,7 +82,7 @@ elif(op==23):
 elif(op==24):
     print('Привет мир (Privet mir)')
 elif(op==25):
-    print('שלום עולם')
+    print('(shlom lech oalm) שלום עולם')
 elif(op==26):
     print('(marhaban bialealam) مرحبا بالعالم')
 elif(op==27):
